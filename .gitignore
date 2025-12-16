@@ -1,0 +1,9 @@
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Generated icons
+logo.ico
+
